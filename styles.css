@@ -1,0 +1,142 @@
+.raleway-font {
+    font-family: "Raleway", sans-serif;
+}
+
+.inter {
+    font-family: "Inter", sans-serif;
+}
+
+/* global components */
+.btn-blue {
+    background-color: #4E47FF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.btn-blue:hover {
+    background-color: #5c5cfe;
+    cursor: pointer;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+
+
+/* card components */
+
+.card {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+}
+
+.card-h3 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1E1E1E;
+}
+
+.card-h4 {
+    font-size: 16px;
+    font-weight: 600;
+    color: #757575;
+}
+
+.card-p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #1E1E1E;
+}
+
+.card-end-part {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.avatar-radius {
+    border-radius: 50%;
+    height: 50px
+}
+
+/* blue text */
+.blue-text-sm {
+    font-size: 34px;
+    font-weight: 900;
+    color: #4E47FF;
+    font-family: "Inter", sans-serif;
+
+
+}
+
+.blue-text-lg {
+    font-size: 80px;
+    font-weight: 900;
+    color: #4E47FF;
+    font-family: "Inter", sans-serif;
+
+}
+
+.blue-text-xl {
+    font-size: 100px;
+    font-weight: 900;
+    color: #4E47FF;
+    font-family: "Inter", sans-serif;
+
+}
+
+/* paragraph-text */
+.text-sm-1 {
+    font-size: 24px;
+    font-weight: 400;
+    color: #8D8E98;
+}
+
+.text-sm-2 {
+    font-size: 20px;
+    font-weight: 400;
+    color: #8D8E98;
+}
+
+.text-sm-3 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #8D8E98;
+}
+
+/* title-text */
+
+.title-text-sm-1 {
+    color: #252432;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.title-text-sm-2 {
+    color: #000;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.title-text-lg-1 {
+    color: #252432;
+    font-size: 65px;
+    font-weight: bold;
+}
+
+.title-text-lg-2 {
+    color: #000;
+    font-size: 97px;
+    font-weight: bold;
+}
