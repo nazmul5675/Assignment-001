@@ -286,3 +286,17 @@
     padding: 50px;
     width: 400px;
 }
+
+/* Footer */
+footer {
+    background-color: #F5F8FF;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.footer-list {
+    list-style: none;
+    justify-content: space-evenly;
+    max-width: 1000px;
+    margin: auto;
+}
