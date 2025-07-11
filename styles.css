@@ -246,3 +246,43 @@
     margin-top: 150px;
     margin-bottom: 150px;
 }
+
+/* Let's get in touch section */
+.get-in-touch-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 50px 20px;
+}
+
+.get-in-touch-flex {
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.get-in-touch-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.form-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #000;
+}
+
+.input-email {
+    border: .2px solid #b1b3c0;
+    border-radius: 5px;
+    background: #F5F8FF;
+    padding: 25px;
+    width: 400px;
+}
+
+.input-message {
+    border: .2px solid #b1b3c0;
+    border-radius: 5px;
+    background: #F5F8FF;
+    padding: 50px;
+    width: 400px;
+}
