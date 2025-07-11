@@ -140,3 +140,10 @@
     font-size: 97px;
     font-weight: bold;
 }
+
+/* Navbar section */
+.nav-item {
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+}
